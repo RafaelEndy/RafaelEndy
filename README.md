@@ -6,23 +6,13 @@
 
 ## Skills
 
-![Skills](https://skillicons.dev/icons?i=python,java,c,php,js,html,css,mysql,git,aws,android,linux)
+![Skills](https://skillicons.dev/icons?i=python,java,c,cpp,php,js,html,css,mysql,postgres,git,aws,linux)
 
 ## Certifications
 
-**Programming**
-- Mobile Development (Android) – Estácio
-- Web Development – Estácio
-
-**Networking & Security**
-- CCNA: Introduction to Networks – Cisco & SENAI/SC
-- Junior Cybersecurity Analyst Career Path – Cisco
-- Network Defense – Cisco
-- Endpoint Security – Cisco
-- Networking Basics – Cisco
-
-**Cloud**
-- AWS Discovery Day – AWS
+- **Programming:** Mobile Development (Android), Web Development – Estácio
+- **Networking & Security:** CCNA, Junior Cybersecurity Analyst, Network Defense, Endpoint Security, Networking Basics – Cisco
+- **Cloud:** AWS Discovery Day – AWS
 
 ## GitHub Stats
 
