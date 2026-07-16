@@ -1,8 +1,8 @@
 # Rafael Endi
 
-- 🎓 Information Systems Undergraduate
-- 🚀 Future Software Engineer
-- 💡 Passionate about solving problems and learning new technologies
+- Information Systems Graduate
+- Future Software Engineer
+- Always learning, always building
 - 🔗 [LinkedIn](https://www.linkedin.com/in/rafael-endi-67623530b)
 
 ## Skills
