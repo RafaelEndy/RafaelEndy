@@ -1,6 +1,6 @@
 # Rafael Endi
 
-- Information Systems Graduate
+- Information Systems Undergraduate
 - Future Software Engineer
 - Always learning, always building
 - 🔗 [LinkedIn](https://www.linkedin.com/in/rafael-endi-67623530b)
