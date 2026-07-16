@@ -1,12 +1,13 @@
 # Rafael Endi
 
-- 🎓 Studying Information Systems
-- 💻 Developer in training
+- 🎓 Information Systems Undergraduate
+- 🚀 Future Software Engineer
+- 💡 Passionate about solving problems and learning new technologies
 - 🔗 [LinkedIn](https://www.linkedin.com/in/rafael-endi-67623530b)
 
 ## Skills
 
-![Skills](https://skillicons.dev/icons?i=python,java,c,cpp,php,js,html,css,mysql,postgres,git,aws,linux)
+![Skills](https://skillicons.dev/icons?i=python,java,c,cpp,php,js,html,css,mysql,postgres,git,aws,linux,react)
 
 ## Certifications
 
